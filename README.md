@@ -11,6 +11,7 @@ Microbiology & Cell Science, 2016
 
 ### Work Experience 
 Senior Business Intelligence Analyst @ World Bank 
+
   ●Automate Tableau reports by querying the data warehouse using Microsoft SQL Server, delivering actionable insights to senior leadership.
   ●Lead the transition of manual reports to automated systems across various business units, utilizing Oracle, Microsoft SQL Server, Python and Tableau for streamlined reporting.
   ●Spearheaded an initiative using Python to automate a marketing program, enabling automatic account list provision to the IT team, saving the business roughly 5 hours weekly.
@@ -19,6 +20,7 @@ Senior Business Intelligence Analyst @ World Bank
   ●Develop and sustain tailored data tools aimed at enhancing organization-wide visibility and insights, culminating in comprehensive reports shared with senior leadership and all business units.
 
 Business Intelligence Consultant @ Lightstream
+
   ●Collaborated with senior leadership to design and automate 30+ PowerBI reports by leveraging SQL, and the Dynamics 365 API, providing critical sales insights.
   ●Orchestrated the integration of Hubspot and Dynamics 365 through a third-party API, ensuring seamless data flow for enhanced analysis.
   ●Trained colleagues to utilize PowerBI reports, fostering a data-driven culture and granting access to automated reports on sales, leads, and marketing data.
